@@ -1,4 +1,4 @@
-# 🏡 Mexico House Price Analysis & Prediction using Machine Learning and showing an interactive dashboard using Power BI
+  # 🏡 Mexico House Price Analysis & Prediction using Machine Learning and showing an interactive dashboard using Power BI
 
 📌 **Project Type**: Exploratory Data Analysis + Predictive Modeling + Dashboard  
 📊 **Tools Used**: Python · Scikit-learn · Power BI · Pandas · Matplotlib · Ridge Regression · Linear Regression  
@@ -46,13 +46,13 @@ To explore this, I use:
 
 ---
 ## 📝 Report
------------------------------------
-| Model	| Baseline MAE |	Val MAE |
------------------------------------
-| Linear Regression |	17189.62 | 15200.969 |
--------------------------------------------
-| Ridge	| 17189.62	| 15200.246 |
-----------------------------------
+------------------------------------------------------
+|   Model	          |  Baseline MAE   |	Val MAE      |
+------------------------------------------------------
+| Linear Regression |	17189.62        | 15200.969    |
+------------------------------------------------------
+|   Ridge	          |     17189.62  	|   15200.246  |
+------------------------------------------------------
 
 ## 🧪 Sample Insights
 
