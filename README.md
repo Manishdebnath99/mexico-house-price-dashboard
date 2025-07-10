@@ -41,18 +41,17 @@ To explore this, I use:
 ### 🤖 Machine Learning Pipeline
 - Linear Regression & Ridge Regression
 - Handling multicollinearity and overfitting
-- Mean Absolute Squared Error 
+- Mean Squared Error 
 - Pipeline for imputation and encoding
 
 ---
-## 📝 Report
-______________________________________________________
-|   Model	          |  Baseline MAE   |	Val MAE      |
-______________________________________________________
-| Linear Regression |	17189.62        | 15200.969    |
-______________________________________________________
-|   Ridge	          |     17189.62  	|   15200.246  |
-______________________________________________________
+## 📈 Model Evaluation: MAE (Mean Absolute Error)
+
+| Model              | Baseline MAE | Validation MAE |
+|--------------------|--------------|----------------|
+| Linear Regression  | 17,189.62    | 15,200.97      |
+| Ridge Regression   | 17,189.62    | 15,200.25      |
+
 
 ## 🧪 Sample Insights
 
