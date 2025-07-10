@@ -52,4 +52,6 @@ To explore this, I use:
 - 📈 Ridge Regression slightly outperforms Linear Regression by reducing overfitting
 
 ---
+This project was inspired by the lesson I learned in WQU
+---
 
