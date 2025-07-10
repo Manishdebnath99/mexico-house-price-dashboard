@@ -45,6 +45,14 @@ To explore this, I use:
 - Pipeline for imputation and encoding
 
 ---
+## 📝 Report
+-----------------------------------
+| Model	| Baseline MAE |	Val MAE |
+-----------------------------------
+| Linear Regression |	17189.62 | 15200.969 |
+-------------------------------------------
+| Ridge	| 17189.62	| 15200.246 |
+----------------------------------
 
 ## 🧪 Sample Insights
 
@@ -52,6 +60,6 @@ To explore this, I use:
 - 📈 Ridge Regression slightly outperforms Linear Regression by reducing overfitting
 
 ---
-This project was inspired by the lesson I learned in WQU
+- This project was inspired by the lesson I learned in WQU
 ---
 
